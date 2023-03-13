@@ -8,9 +8,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/UJkUtbYU)
 
 
-![Gabriel Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=gmachado00&show_icons=true&theme=dracula)
+![Gabriel Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmachado00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso em meu dia a dia:
 
