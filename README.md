@@ -14,9 +14,9 @@ I love code and create new stuff, I like too much to discover new technologies a
 
 
 
-![Gabriel Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dracula)
+![Gabriel Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado)](https://github.com/ghbmachado/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado&layout=compact&langs_count=16&theme=dark"/>
 
 ## My specialties:
 
