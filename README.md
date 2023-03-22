@@ -8,7 +8,7 @@
 
 ## About me:
 
-I'm a Software Engineering student. :smile:
+I'm a Software Engineering student.
 
 I love code and create new stuff, I like too much to discover new technologies and dive deep in solving problems.
 
