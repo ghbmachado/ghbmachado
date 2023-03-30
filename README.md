@@ -1,7 +1,7 @@
-### Hi, my name is Gabriel 🚀
+### Hi, I'm Gabriel! 🚀
 
 - 🔭 I’m currently studying Software Engineering. 
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript and ReactJS.
+- ⚙️ I’m currently learning HTML5, CSS3, JavaScript and ReactJS.
 - 📫 How to reach me: gabrielhbmachado@hotmail.com
 
 <div>
