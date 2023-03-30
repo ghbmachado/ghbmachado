@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel!
+### Hi, I'm Gabriel! 👨🏻‍💻
 
 - 🔭 I’m currently studying Software Engineering. 
 - ⚙️ I’m currently learning HTML5, CSS3, JavaScript and ReactJS.
