@@ -1,31 +1,20 @@
-# Hi, I'm Gabriel Machado! 👨🏻‍💻
+### Hi, my name is Gabriel 🚀
 
-[![](https://visitcount.itsvg.in/api?id=ghbmachado&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+- 🔭 I’m currently studying Software Engineering. 
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and ReactJS.
+- 📫 How to reach me: gabrielhbmachado@hotmail.com
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ghbmachado)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-machado-85b882261)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmachxdo)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gmachxdo)
+<div>
+  <a href="https://github.com/ghbmachado/ghbmachado">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dracula">
+  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado&layout=compact&langs_count=16&theme=dracula">
+</div>
+<div style="display: inline_block"><br>
 
-## About me:
-
-I'm a Software Engineering student.
-
-I love code and create new stuff, I like too much to discover new technologies and dive deep in solving problems.
-
-
-
-![Gabriel Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dark)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado&layout=compact&langs_count=16&theme=dark"/>
-
-## My specialties:
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-## Contact:
-- E-mail: gabrielhbmachado@hotmail.com
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+  ##
+  
