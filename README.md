@@ -1,21 +1,32 @@
-### Hi, I'm Gabriel! 👨🏻‍💻
+# Gabriel Machado - Software engineering student
 
-- 🔭 I’m currently studying Software Engineering. 
-- ⚙️ I’m currently learning HTML5, CSS3, JavaScript and ReactJS.
-- 📫 How to reach me: gabrielhbmachado@hotmail.com
-<br>
-<div>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align:middle">
-  <a href="https://github.com/ghbmachado/ghbmachado">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api?username=ghbmachado&show_icons=true&theme=dracula">
-  <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbmachado&layout=compact&langs_count=16&theme=dracula">
-</div>
-<div style="display: inline_block"><br>
+## About me
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" style="vertical-align:middle">
-<br>
-<br>
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+Hello, my name is Gabriel Machado and I'm Software Engineering student with experience in HTML5, CSS3 and JavaScript. Now, I’m learning and focusing on Front-end studying ReactJS and NextJS.
+
+I am a dedicated professional, passionate about technology, and always looking to update and improve my skills. I love working in teams and I’m always open to new opportunities and challenges.
+
+## Technologies I work with
+
+Some of the technologies I have experience with are:
+
+- HTML5
+- CSS3
+- JavaScript
+- ReactJS/NextJS
+
+## Contact
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-machado-85b882261)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhbmachado@hotmail.com)
+
+## Contributions
+
+If you would like to contribute to any of my projects, feel free to open a pull request or send an email to me.
+
+## Languages
+
+- Portuguese - Native
+- English - Advanced
+- French - Basic
