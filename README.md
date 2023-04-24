@@ -13,7 +13,7 @@ Some of the technologies I have experience with are:
 - HTML5
 - CSS3
 - JavaScript
-- ReactJS/NextJS
+- React.js/Next.js
 
 ## Contact
 
