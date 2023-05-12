@@ -14,6 +14,7 @@ Some of the technologies I have experience with are:
 - CSS3
 - JavaScript
 - React.js/Next.js
+- Figma
 
 ## Contact
 
